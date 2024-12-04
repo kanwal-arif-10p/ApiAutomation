@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  },
+  "dependencies": {
+    "chai": "^5.1.2",
+    "init": "^0.1.2",
+    "playwright": "^1.49.0"
+  }
+}
